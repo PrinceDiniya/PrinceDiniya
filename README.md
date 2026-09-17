@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Prince Diniya 👋
 
-<!--
-**PrinceDiniya/PrinceDiniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Aspiring Software Developer  
+🌱 Currently learning JavaScript & Web Development
 
-Here are some ideas to get you started:
+## About Me
+I'm a Computer Science Engineering student interested in software development and web technologies.
+I'm currently learning JavaScript and building my programming skills through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- python
+- java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Currently Learning
+- JavaScript
+- Web Development
+- Git & GitHub
+
+## Goals
+- Get an internship
+- Build real-world projects
+- Improve my coding skills
